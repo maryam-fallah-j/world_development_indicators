@@ -22,6 +22,5 @@ python -m pip install pandas numpy seaborn matplotlib jupyter ipykernel
 Open the starter notebook:
 
 ```bash
-jupyter lab hello_world.ipynb
+jupyter lab wdi_exploration.ipynb
 ```
-
